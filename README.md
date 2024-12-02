@@ -16,4 +16,4 @@ Isi dari JavaScript yang saya buat adalah
 
 7.Latihan Iseng
 
-Mohon maaf jika di nama file nya belum saya ganti, karena saya pemalas.
+Mohon maaf jika di nama file nya belum saya ganti, karena saya malas.

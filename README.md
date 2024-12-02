@@ -1,12 +1,19 @@
 # JSDasar
 Ini Kumpulan dasar dasar JavaScript yang saya pelajari untuk saat ini.
 Isi dari JavaScript yang saya buat adalah
--Expression dan Statement
--Comment
--Variabel
--Tipe Data
--Mengubah Nilai Antar Tipe Data
--Operator
--Latihan Iseng
+
+1.Expression dan Statement
+
+2.Comment
+
+3.Variabel
+
+4.Tipe Data
+
+5.Mengubah Nilai Antar Tipe Data
+
+6.Operator
+
+7.Latihan Iseng
 
 Mohon maaf jika di nama file nya belum saya ganti, karena saya pemalas.
